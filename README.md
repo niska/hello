@@ -1,2 +1,2 @@
 # hello
-JUST 
+JUST hello
